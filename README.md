@@ -6,11 +6,13 @@
 <img width="1070" height="444" alt="image" src="https://github.com/user-attachments/assets/82607fad-d063-460c-b0ed-a482dc216e93" />
 
 Завдання 2. Написати просту обробку запиту метода GET сервером. На запит повертати строку “Hello World!” 
-Перевірено роботу веб-сервера. На рисунку вмдно, що було повернено текст "Hello World!":
+
+Перевірено роботу веб-сервера. На рисунку видно, що було повернено текст "Hello World!":
 
 <img width="643" height="242" alt="image" src="https://github.com/user-attachments/assets/ba79df93-4c66-42c2-a242-87d5d55b525f" />
 
 Завдання 3. [Easy-Medium] Написати просту обробку запиту метода GET сервером зі шляхом та параметрами в URL, наприклад http://127.0.0.1:8000/currency?today&key=value.
+
 За допомогою метода GET сервер обробляє параметри URL. Це можна побачити на рисунку:
 
 <img width="611" height="261" alt="image" src="https://github.com/user-attachments/assets/eebea5da-94c2-4487-aa8c-2ab0e3da0515" />
